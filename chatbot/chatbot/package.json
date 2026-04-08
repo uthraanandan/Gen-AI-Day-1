@@ -1,0 +1,14 @@
+{
+  "name": "customer-support-chatbot",
+  "version": "1.0.0",
+  "description": "A simple customer support chatbot web app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0"
+  }
+}
